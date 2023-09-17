@@ -8,7 +8,7 @@ Time spent: **3** hours spent in total
 
 ## Summary
 
-**Intro to Android learning** is an android app that recreates the common "Hello, World!", to introduce ourselves to the neighborhood squirrel 🐿.  **This introductory app displays my name, a short bio and three of my favrite hobbies.**
+**Intro to Android learning** is an android app that recreates the common "Hello, World!", to introduce ourselves to the neighborhood squirrel 🐿.  **This introductory app displays my name, a short bio and three of my favorite hobbies.**
 
 If I had to describe this project in three (3) emojis, they would be: **😲🌱🚀**
 
